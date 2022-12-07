@@ -1,0 +1,56 @@
+{"books":[{
+  "id":1,
+  "mylist":"Wednesday",
+  "recentlyadded": "YellowStone",
+  "trending":"Wednesday",
+  "diffgenre": "Thriller",
+  "topsearches": 5,
+  "downloads": 120000
+
+},
+{
+  "id":2,
+  "mylist":"Willow",
+  "recentlyadded": "Tulsa King",
+  "trending":"Manifest",
+  "diffgenre": "Crime",
+  "topsearches": 89,
+  "downloads": 4689
+},
+{
+  "id":3,
+  "mylist":"WhiteLotus",
+  "recentlyadded": "1899",
+  "trending":"FireForce",
+  "diffgenre": "Crime",
+  "topsearches": 9,
+  "downloads": 899874
+},
+{
+  "id":4,
+  "mylist":"SlowHorse",
+  "recentlyadded": "YellowStone",
+  "trending":"Wednesday",
+  "diffgenre": "Thriller",
+  "topsearches": 1,
+  "downloads": 895
+},
+{
+  "id":5,
+  "mylist":"1883",
+  "recentlyadded": "YellowStone",
+  "trending":"Wednesday",
+  "diffgenre": "Thriller",
+  "topsearches": 9,
+  "downloads": 3
+},
+{
+  "id":6,
+  "mylist":"HomeTown",
+  "recentlyadded": "Crown",
+  "trending":"Crown",
+  "diffgenre": "Fantasy",
+  "topsearches": 9,
+  "downloads": 2569
+}
+]}
